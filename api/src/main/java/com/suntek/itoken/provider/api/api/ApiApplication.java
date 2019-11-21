@@ -1,4 +1,4 @@
-package com.suntek.itoken.api.api;
+package com.suntek.itoken.provider.api.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
